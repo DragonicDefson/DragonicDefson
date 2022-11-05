@@ -5,7 +5,7 @@
 - 👀 I’m interested in .. Literally every aspect of technology, one day not behind my computer, is not a day in my life.
 - 🌱 I’m currently learning .NET MAUI, and I'm planning to get into Blazer!
 - 📫 How to reach me? Honestly, I'm really a loner, so yeah.. just don't.
-
+- 🧑‍💻 GitLab: <https://gitlab.bradleymethorst.com/DragonicDefson>
 
 ## What I like to listen while I'm coding.
 
