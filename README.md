@@ -4,7 +4,8 @@
 - 👨‍💻 I post projects occasionally on my GitHub, not in a full schedule due to other bigger projects that are on my mind!
 - 👀 I’m interested in .. Literally every aspect of technology, one day not behind my computer, is not a day in my life.
 - 🌱 I’m currently learning .NET MAUI, and I'm planning to get into Blazer!
-- 📫 How to reach me? Honestly, I'm really a loner, so yeah.. just don't.
+- 📪 How to reach me? Honestly, I'm really a loner, so.. not programming related? Just don't.
+- 📬 Contact for hire? E-mail me: [Bradley Methorst](mailto:contact@bradleymethorst.com?subject=GitHub%20-%20Hiring%20request)
 - 🧑‍💻 GitLab: <https://gitlab.bradleymethorst.com/DragonicDefson>
 
 ## What I like to listen while I'm coding.
