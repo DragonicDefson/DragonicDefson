@@ -8,7 +8,7 @@
 - 📬 Hire me? [E-mail me](mailto:contact@bradleymethorst.com?subject=GitHub%20-%20Hiring%20request)
 - 🧑‍💻 GitLab backup instance: <https://gitlab.bradleymethorst.com/DragonicDefson>
 
-## What I like to listen while I'm coding.
+## What I like to listen while I'm coding
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11120827470&cover_image=true&theme=default&show_offline=true&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=11120827470&redirect=true)
 
