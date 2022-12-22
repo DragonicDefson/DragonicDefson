@@ -7,6 +7,9 @@
 - 📪 How to reach me? Honestly, I'm really a loner, so.. not programming related? Just don't.
 - 📬 Hire me? [E-mail me](mailto:contact@bradleymethorst.com?subject=GitHub%20-%20Hiring%20request)
 - 🧑‍💻 GitLab backup instance: <https://gitlab.bradleymethorst.com/DragonicDefson>
+<a href="https://www.buymeacoffee.com/dragonicdefson">
+  <img src="https://www.bradleymethorst.com/assets/coffee.webp" alt="Coffee" title="Buy me a coffee" style="display: inline-block; margin-top: 0 auto; max-width: 275px">
+</a>
 
 ## What I like to listen while I'm coding
 
