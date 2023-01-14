@@ -5,7 +5,7 @@
 - 👀 I’m interested in .. Literally every aspect of technology, one day not behind my computer, is not a day in my life.
 - 🌱 I’m currently learning .NET MAUI, and I'm planning to get into Blazer!
 - 📪 How to reach me? Honestly, I'm really a loner, so.. not programming related? Just don't.
-- 📬 Hire me: <a href="mailto:contact@bradleymethorst.com?subject=GitHub%20-%20Hiring%20request">📝</a>
+- 📬 Hire me: <a href="mailto:contact@bradleymethorst.com?subject=GitHub - Hiring request">📝</a>
 
 <br>[![coffee](coffee.png)](https://www.buymeacoffee.com/dragonicdefson)</br>
 
