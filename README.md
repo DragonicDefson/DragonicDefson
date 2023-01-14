@@ -12,7 +12,7 @@
   <img src="coffee.png" alt="Coffee" title="Buy me a coffee" style="display: inline-block; margin-top: 0 auto; max-width: 275px" />
 </a>
 
-## What I like to listen while I'm coding
+## My taste of music while coding
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11120827470&cover_image=true&theme=default&show_offline=true&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=11120827470&redirect=true)
 
