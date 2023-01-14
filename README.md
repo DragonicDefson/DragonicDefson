@@ -1,4 +1,4 @@
-![Stars](https://img.shields.io/github/stars/DragonicDefson?color=%230098CB&style=for-the-badge)
+![stars](https://img.shields.io/github/stars/DragonicDefson?color=%230098CB&style=for-the-badge)![feeding-penguins](feeding-penguins.svg)
 
 - 👋 Hi, I’m Bradley Methorst, Welcome to my GitHub page!
 - 👨‍💻 I post projects occasionally on my GitHub, not in a full schedule due to other bigger projects that are on my mind!
@@ -8,9 +8,7 @@
 - 📬 Hire me? [E-mail me](mailto:contact@bradleymethorst.com?subject=GitHub%20-%20Hiring%20request)
 - 🧑‍💻 GitLab backup instance: <https://gitlab.bradleymethorst.com/DragonicDefson>
 
-<a href="https://www.buymeacoffee.com/dragonicdefson">
-  <img src="coffee.png" alt="Coffee" title="Buy me a coffee" style="display: inline-block; margin-top: 0 auto; max-width: 275px" />
-</a>
+<br>[![coffee](coffee.png)](https://www.buymeacoffee.com/dragonicdefson)</br>
 
 ## My taste of music while coding
 
