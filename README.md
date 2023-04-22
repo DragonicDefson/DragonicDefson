@@ -7,7 +7,9 @@
 - 📪 How to reach me? Honestly, I prefer to keep chit-chat to a minimum, let projects thrive while maintaining focus.
 - 📬 Hire me: <a href="https://www.bradleymethorst.com/front-end/hire-me/" target="_blank">📝</a>
 
-<br>[![coffee](coffee.png)](https://www.buymeacoffee.com/dragonicdefson)</br>
+<br><img src="https://github.com/DragonicDefson/DragonicDefson/blob/main/gradient.png" width="63%" height="5">
+
+<br>[![coffee](coffee.png)](https://www.buymeacoffee.com/dragonicdefson)
 
 ## My taste of music while coding
 
