@@ -3,7 +3,7 @@
 - 👋 Hi, I’m Bradley Methorst, Welcome to my GitHub page!
 - 👨‍💻 I post projects occasionally on my GitHub, not in a full schedule due to other bigger projects that are on my mind!
 - 👀 I’m interested in .. Literally every aspect of technology, one day not behind my computer, is not a day in my life.
-- 🌱 I’m currently learning .NET MAUI, and I'm planning to get into Blazer!
+- 🌱 I’m currently learning .NET MAUI, and I'm planning to get into Blazor!
 - 📪 How to reach me? Honestly, I prefer to keep chit-chat to a minimum, let projects thrive while maintaining focus.
 - 📬 Hire me: <a href="https://www.bradleymethorst.com/front-end/hire-me/" target="_blank">📝</a>
 
