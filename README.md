@@ -5,7 +5,11 @@
 - 👀 I’m interested in .. Literally every aspect of technology, one day not behind my computer, is not a day in my life.
 - 🌱 I’m currently learning .NET MAUI, and I'm planning to get into Blazor!
 - 📪 How to reach me? Honestly, I prefer to keep chit-chat to a minimum, let projects thrive while maintaining focus.
-- 📬 Hire me: <a href="https://www.bradleymethorst.com/front-end/hire-me/" target="_blank">📝</a>
+   - 📬 Hire me: <a href="https://www.bradleymethorst.com/front-end/hire-me/" target="_blank">📝</a>
+- 🕸️ My website:
+   - Visible web: <a href="https://www.bradleymethorst.com/front-end/hire-me/" target="_blank">🌐</a>
+   - For privacy gooroos: <a href="http://zx7oq55rmzxzlamc6zubu5voype3n5b6mh3l2ru7giyli4shgxvovpyd.onion" target="_blank">🧅</a>
+
 
 <br><img src="https://github.com/DragonicDefson/DragonicDefson/blob/main/gradient-image.png" width="63%" height="4"></br>
 
