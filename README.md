@@ -7,7 +7,7 @@
 - 📪 How to reach me? Honestly, I prefer to keep chit-chat to a minimum, let projects thrive while maintaining focus.
    - 📬 Hire me: <a href="https://www.bradleymethorst.com/front-end/hire-me/" target="_blank">📝</a>
 - 🕸️ My website:
-   - Visible web: <a href="https://www.bradleymethorst.com/front-end/hire-me/" target="_blank">🌐</a>
+   - Visible web: <a href="https://www.bradleymethorst.com/front-end/" target="_blank">🌐</a>
    - For privacy gooroos: <a href="http://zx7oq55rmzxzlamc6zubu5voype3n5b6mh3l2ru7giyli4shgxvovpyd.onion" target="_blank">🧅</a>
 
 
