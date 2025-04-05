@@ -9,8 +9,8 @@
   - My Website: <a href="https://www.bradleymethorst.com/front-end/" target="_blank">🌐</a>
   - Hire me:  <a href="https://www.bradleymethorst.com/front-end/hire-me/" target="_blank">🌐</a>
 - For privacy gooroos - You rock!
-  - My Website: <a href="http://zx7oq55rmzxzlamc6zubu5voype3n5b6mh3l2ru7giyli4shgxvovpyd.onion" target="_blank">🧅</a>
-  - Hire me: <a href="http://zx7oq55rmzxzlamc6zubu5voype3n5b6mh3l2ru7giyli4shgxvovpyd.onion/hire-me/" target="_blank">🧅</a>
+  - My Website: <a href="http://2qycjir3sxaacxphcmqv2mgwb5nhdyyqrfvwt7jwzmcv3fyfq4nhlmyd.onion" target="_blank">🧅</a>
+  - Hire me: <a href="http://2qycjir3sxaacxphcmqv2mgwb5nhdyyqrfvwt7jwzmcv3fyfq4nhlmyd.onion/front-end/hire-me" target="_blank">🧅</a>
 
 <br><img src="https://github.com/DragonicDefson/DragonicDefson/blob/main/gradient-image.png" width="63%" height="4"></br>
 
