@@ -18,7 +18,7 @@
 
 ## My taste of music while coding
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11120827470&cover_image=true&theme=default&show_offline=true&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=11120827470&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=11120827470&cover_image=true&theme=default&show_offline=true&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=11120827470&redirect=true)
 
 <!---
 DragonicDefson/DragonicDefson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
